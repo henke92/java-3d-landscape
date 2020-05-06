@@ -9,6 +9,7 @@ how to make it run:
 
 or
 
-2. a) Make a new project
-   b) Put all files except 3d_landscape.jar in the src folder
-   c) Run project
+2. (Netbeans) 
+a) File/New Project/Java Application/"Name" (Unbox Create Main Class)
+b) Put the .java files and the .form file in the "NetbeansProject/ProjectName/src" folder
+c) Run the project in Netbeans
